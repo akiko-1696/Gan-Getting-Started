@@ -23,7 +23,7 @@ Generate Monet-style artwork using machine learning techniques and prepare outpu
 # Tech Stack
 
 - Python
-- TensorFlow / PyTorch
+- TensorFlow
 - NumPy
 - Matplotlib
 
